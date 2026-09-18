@@ -161,6 +161,8 @@ cd learner_app
 flutter pub get
 4. Run the Application
 flutter run
+```
+
 📸 Screenshots
 
 Screenshots of the application can be added here to demonstrate the main features and user interface.
