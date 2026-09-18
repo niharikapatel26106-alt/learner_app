@@ -143,13 +143,15 @@ learner_app/
 └── analysis_options.yaml
 ```
 
-▶️ How to Run
-Prerequisites
+## ▶️ How to Run
+
+### Prerequisites
 
 Make sure Flutter is installed on your computer.
 
 Check your Flutter installation:
 
+```bash
 flutter --version
 1. Clone the Repository
 git clone https://github.com/niharikapatel26106-alt/learner_app.git
@@ -167,9 +169,7 @@ Screenshots of the application can be added here to demonstrate the main feature
 
 The project includes nine user stories describing the expected functionality and user experience of the application.
 
-See:
-
-USER_STORIES.md
+See the USER_STORIES.md file for the complete user stories.
 
 📌 Project Status
 
@@ -186,13 +186,3 @@ BSc IT Student | Full-Stack Developer
 🔗 GitHub Repository
 
 https://github.com/niharikapatel26106-alt/learner_app
-
-
-### Then save and push it
-
-In your Theia terminal:
-
-```bash
-git add README.md
-git commit -m "Update README documentation"
-git push
