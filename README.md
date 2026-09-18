@@ -153,6 +153,8 @@ Check your Flutter installation:
 
 ```bash
 flutter --version
+```
+
 1. Clone the Repository
 git clone https://github.com/niharikapatel26106-alt/learner_app.git
 2. Open the Project
@@ -161,7 +163,6 @@ cd learner_app
 flutter pub get
 4. Run the Application
 flutter run
-```
 
 📸 Screenshots
 
