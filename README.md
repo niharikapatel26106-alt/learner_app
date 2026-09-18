@@ -155,37 +155,46 @@ Check your Flutter installation:
 flutter --version
 ```
 
-1. Clone the Repository
-git clone https://github.com/niharikapatel26106-alt/learner_app.git
-2. Open the Project
-cd learner_app
-3. Install Dependencies
-flutter pub get
-4. Run the Application
-flutter run
+### 1. Clone the Repository
 
-📸 Screenshots
+```bash
+git clone https://github.com/niharikapatel26106-alt/learner_app.git
+```
+
+### 2. Open the Project
+
+```bash
+cd learner_app
+```
+
+### 3. Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the Application
+
+```bash
+flutter run
+```
+
+## 📸 Screenshots
 
 Screenshots of the application can be added here to demonstrate the main features and user interface.
 
-📋 User Stories
+## 📋 User Stories
 
 The project includes nine user stories describing the expected functionality and user experience of the application.
 
-See the USER_STORIES.md file for the complete user stories.
+See the `USER_STORIES.md` file for the complete user stories.
 
-📌 Project Status
+## 👩‍💻 Author
 
-Completed
-
-This project was developed as part of Flutter mobile application development coursework and demonstrates the implementation of common mobile application features.
-
-👩‍💻 Author
-
-Niharika Patel
+**Niharika Patel**
 
 BSc IT Student | Full-Stack Developer
 
-🔗 GitHub Repository
+## 🔗 GitHub Repository
 
 https://github.com/niharikapatel26106-alt/learner_app
